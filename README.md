@@ -1,4 +1,8 @@
-### Hi there 👋
+### Михаил Филиппов
+
+<p>Всем привет, меня зовут Михаил и я начинающий кот-программист<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">, который делает первые шаги в освоении Веб-разработки. Моя цель - Найти стажировку на следующее лето. Буду стараться над своими проектами, узнавая каждый раз что-то новое из них.
+</p>
+
 
 <!--
 **NewEra2084/NewEra2084** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +10,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning web-programming
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
