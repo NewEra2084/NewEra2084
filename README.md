@@ -4,9 +4,9 @@
 </p>
 
 ## Моя статистика на Гитхаб:
- <img src="https://github-readme-stats.vercel.app/api?username=lyrklif&show_icons=true" alt="lyrklif" width="45%" align="right"/>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=lyrklif" alt="lyrklif" width="48%" >
+ <img src="https://github-readme-stats.vercel.app/api?username=NewEra2084&show_icons=true" alt="NewEra2084" width="45%" align="right"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=NewEra2084" alt="NewEra2084" width="48%" >
 
 
 ## Самые используемыеы языки:
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyrklif&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NewEra2084&layout=compact)
