@@ -20,7 +20,7 @@
 
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/RightEvolution/)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/resetikbb)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/mihail.filippov2006@gmail.com)
 [![VK](https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white)](https://vk.com/hir001b)
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white)](https://web.telegram.org/Hir001b)
 [![Viber](https://img.shields.io/badge/Viber-8B66A9?style=for-the-badge&logo=viber&logoColor=white)](https://www.viber.com/ru/)
