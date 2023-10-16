@@ -1,20 +1,12 @@
-### Михаил Филиппов
+### Мой Профиль
 
 <p>Всем привет, меня зовут Михаил и я начинающий кот-программист<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">, который делает первые шаги в освоении Веб-разработки. Моя цель - Найти стажировку на следующее лето. Буду стараться над своими проектами, узнавая каждый раз что-то новое из них.
 </p>
 
+## Моя статистика на Гитхаб:
+ <img src="https://github-readme-stats.vercel.app/api?username=lyrklif&show_icons=true" alt="lyrklif" width="45%" align="right"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=lyrklif" alt="lyrklif" width="48%" >
 
-<!--
-**NewEra2084/NewEra2084** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning web-programming
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Самые используемыеы языки:
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyrklif&layout=compact)
