@@ -1,4 +1,8 @@
-<h1 align=center color="red">Мой Профиль</h1>
+<p align="center">
+  <a href="https://github.com/NewEra2084"><img src="" alt="Banner"></a>
+</p>
+
+<h1 align=center color="red">Привет! Тебе нравится этот профиль? 🙂:</h1>
 
 <p>Всем привет, меня зовут Михаил и я начинающий кот(<b>Д</b>)ер<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">, который делает первые шаги в освоении Веб-разработки. Моя цель - найти стажировку на следующее лето. Буду стараться над своими проектами, узнавая каждый раз что-то новое из них.
 </p>
@@ -28,6 +32,11 @@
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white)](https://web.telegram.org/Hir001b)
 [![Viber](https://img.shields.io/badge/Viber-8B66A9?style=for-the-badge&logo=viber&logoColor=white)](https://www.viber.com/ru/)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCg7GCK2vc1-P_yix38TLWKg)
+<div align=center>
+  <p>Слушаю музыку в:</p>
+  
+  ![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
+</div>
 
 ---
 
