@@ -5,10 +5,14 @@
 
 ```css
 #Mihail { 
-  position: Russia; 
-  height: 188cm; 
+  country: Russia;
+  city: Izhevsk;
+  height: 188cm;
+  age: 17;
   sex: boy; 
-  color: red 
+  favorite-color: red;
+  dream: just-be-a-famous-or-darling;
+  interests: games-books-programming-music-estetic;
 }
 
 ```
