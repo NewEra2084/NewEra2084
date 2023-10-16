@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/NewEra2084"><img src="" alt="Banner"></a>
+  <a href="https://github.com/NewEra2084"><img src="made-in-abyss.gif" alt="Banner"></a>
 </p>
 
 <h1 align=center color="red">Привет! Тебе нравится этот профиль? 🙂:</h1>
