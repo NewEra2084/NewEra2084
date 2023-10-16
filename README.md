@@ -12,7 +12,6 @@
 }
 
 ```
-<img src="https://custom-icon-badges.demolab.com/github/followers/NewEra2084?logo=person-add&style=social&logoColor=black">
 
 ---
 
