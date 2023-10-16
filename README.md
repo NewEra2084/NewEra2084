@@ -19,6 +19,13 @@
   interests: games-books-programming-music-estetic;
 }
 
+.anime::favorites{
+  first: Darling-in-the-FranXX;
+  second: made-in-Abyss;
+  third: Attack-on-Titans;
+  four: NULL;
+}
+
 ```
 
 ---
