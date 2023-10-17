@@ -55,8 +55,10 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NewEra2084&layout=compact)
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
 <p>В планах изучить:</p>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
