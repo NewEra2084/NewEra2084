@@ -57,13 +57,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NewEra2084&layout=compact)
 
 <!--START_SECTION:waka-->
-```txt
-Python       1 hr 26 mins    █████████████▒░░░░░░░░░░░   53.45 %
-Markdown     28 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.51 %
-JSON         25 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.92 %
-Ezhil        9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
-Vue.js       5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
-```
+
 <!--END_SECTION:waka-->
 
 <p>В планах изучить:</p>
