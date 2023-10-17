@@ -42,7 +42,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/mihail.filippov2006@gmail.com)
 [![VK](https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white)](https://vk.com/hir001b)
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/hir001b)
-[![Viber](https://img.shields.io/badge/Viber-8B66A9?style=for-the-badge&logo=viber&logoColor=white)](viber://chat?number=+79827903929)
+[![Viber](https://img.shields.io/badge/Viber-8B66A9?style=for-the-badge&logo=viber&logoColor=white)](viber://chat?number=%2B79827903929)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCg7GCK2vc1-P_yix38TLWKg)
 </div>
 <div align=center>
