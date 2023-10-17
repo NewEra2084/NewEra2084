@@ -7,6 +7,9 @@
 <p>Всем привет, меня зовут Михаил и я начинающий кот(<b>Д</b>)ер<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">, который делает первые шаги в освоении Веб-разработки. Моя цель - найти стажировку на следующее лето. Буду стараться над своими проектами, узнавая каждый раз что-то новое из них.
 </p>
 
+<details>
+  <summary align=center><b>Немного обо мне</b></summary>
+  
 ```css
 #Mihail { 
   country: Russia;
@@ -15,7 +18,7 @@
   age: 17;
   sex: boy; 
   favorite-color: red;
-  dream: just-be-a-famous-or-darling;
+  dream: just-to-be-a-famous-or-darling;
   interests: games-books-programming-music-estetic;
 }
 
@@ -27,6 +30,7 @@
 }
 
 ```
+</details>
 
 ---
 
