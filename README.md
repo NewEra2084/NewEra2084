@@ -59,8 +59,14 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
+<table>
+<tr>
+<th>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NewEra2084&layout=compact)
+
+</th>
+<th>
 
 <!--START_SECTION:waka-->
 
@@ -78,6 +84,11 @@ Less             0 secs          >------------------------   02.13 %
 
 <!--END_SECTION:waka-->
 
+</th>
+</tr>
+</table>
+
+---
 [<p align=center>![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=nord&quote=Умный+человек+решит+проблему.+Глупый+её+избежит.&author=Альберт+Эйнштейн)</p>](https://github.com/piyushsuthar/github-readme-quotes)
 ![Bottom_down](https://github.com/VL4STEL1N/VL4STEL1N/assets/127986242/1964ca21-6df7-4554-95ea-9ff879f52336)
 <svg viewBox="0 0 115 25" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
