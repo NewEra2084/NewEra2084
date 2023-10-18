@@ -64,23 +64,18 @@
 
 <!--START_SECTION:waka-->
 
-<!--END_SECTION:waka-->
+```txt
+From: 16 October 2023 - To: 17 October 2023
 
-<p>В планах изучить:</p>
+Total Time: 19 mins
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+ActionScript 3   14 mins         >>>>>>>>>>>>>>>>>>-------   70.47 %
+CSS              2 mins          >>>>---------------------   14.75 %
+Markdown         1 min           >>-----------------------   06.94 %
+HTML             1 min           >------------------------   05.46 %
+Less             0 secs          >------------------------   02.13 %
+```
 
----
-
-<h2 align=center>Моя статистика на Гитхаб:</h2>
-
- <img src="https://github-readme-stats.vercel.app/api?username=NewEra2084&show_icons=true" alt="NewEra2084" width="45%" align="right"/>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=NewEra2084" alt="NewEra2084" width="48%" >
-
----
-
-<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 [<p align=center>![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=nord&quote=Умный+человек+решит+проблему.+Глупый+её+избежит.&author=Альберт+Эйнштейн)</p>](https://github.com/piyushsuthar/github-readme-quotes)
