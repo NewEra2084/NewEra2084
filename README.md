@@ -34,7 +34,7 @@
 
 ---
 
-<h2 align=center>Связь со мной:</h2> 
+<h2 align=center>Связь со мной</h2> 
 <div align=center>
   
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/RightEvolution/)
