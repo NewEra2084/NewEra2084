@@ -66,6 +66,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NewEra2084&layout=compact)
 
 </th>
+
 <th>
 
 <!--START_SECTION:waka-->
