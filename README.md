@@ -89,8 +89,10 @@ Less             0 secs          >------------------------   02.13 %
 </tr>
 </table>
 
-![TypeScript](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![TypeScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![JavaScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 [<p align=center>![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=nord&quote=Умный+человек+решит+проблему.+Глупый+её+избежит.&author=Альберт+Эйнштейн)</p>](https://github.com/piyushsuthar/github-readme-quotes)
