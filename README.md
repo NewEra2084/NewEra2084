@@ -48,7 +48,7 @@
 <div align=center>
   <p>Слушаю музыку в:</p>
   
-  ![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
+  [![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://music.youtube.com/playlist?list=PLgxM4yeZt2An4zU7L18z2Sdcol6nrrLH3)
 </div>
 
 ---
