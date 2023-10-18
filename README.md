@@ -64,12 +64,10 @@
 <table>
 <tr>
 <td>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NewEra2084&layout=compact)
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NewEra2084&layout=compact" height=180px/>
 </td>
 <td>
-   <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=NewEra2084&theme=dark&background=000000" alt="webDev's Github stats" />
+   <img src="http://github-readme-streak-stats.herokuapp.com?user=NewEra2084&theme=dark&background=000000" alt="webDev's Github stats" />
 </td>
 </tr>
 <tr>
