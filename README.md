@@ -54,20 +54,25 @@
 ---
 
 <h2 align=center>Используемые мной технологии</h2>
-
+<div align=center>
+  
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 <table>
 <tr>
-<th>
+<td>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NewEra2084&layout=compact)
 
-</th>
-
-<th>
+</td>
+<td>
+   <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=NewEra2084&theme=dark&background=000000" alt="webDev's Github stats" />
+</td>
+</tr>
+<tr>
+<td colspan=2>
 
 <!--START_SECTION:waka-->
 
@@ -85,7 +90,7 @@ Less             0 secs          >------------------------   02.13 %
 
 <!--END_SECTION:waka-->
 
-</th>
+</td>
 </tr>
 </table>
 
@@ -93,6 +98,7 @@ Less             0 secs          >------------------------   02.13 %
 ![JavaScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+</div>
 
 ---
 [<p align=center>![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=nord&quote=Умный+человек+решит+проблему.+Глупый+её+избежит.&author=Альберт+Эйнштейн)</p>](https://github.com/piyushsuthar/github-readme-quotes)
