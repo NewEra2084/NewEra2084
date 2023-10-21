@@ -78,15 +78,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 October 2023 - To: 18 October 2023
+From: 16 October 2023 - To: 19 October 2023
 
-Total Time: 19 mins
+Total Time: 1 hr 54 mins
 
-ActionScript 3   14 mins         >>>>>>>>>>>>>>>>>>-------   70.47 %
-CSS              2 mins          >>>>---------------------   14.75 %
-Markdown         1 min           >>-----------------------   06.94 %
-HTML             1 min           >------------------------   05.46 %
-Less             0 secs          >------------------------   02.13 %
+PHP              1 hr 34 mins    >>>>>>>>>>>>>>>>>>>>>----   82.45 %
+ActionScript 3   14 mins         >>>----------------------   12.26 %
+CSS              2 mins          >------------------------   02.57 %
+Markdown         1 min           -------------------------   01.21 %
+HTML             1 min           -------------------------   00.95 %
 ```
 
 <!--END_SECTION:waka-->
