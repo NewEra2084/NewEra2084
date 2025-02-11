@@ -25,7 +25,7 @@
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ](https://www.mongodb.com/)</div>
-
+<div style="display:flex; justify-items:center">
 <table>
 <tr>
 <td>
@@ -57,7 +57,7 @@ PHP              18 hrs 53 mins  >>-----------------------   07.30 %
 </td>
 </tr>
 </table>
-
+</div>
 <h2 align=center>Связь со мной</h2> 
 <div align=center>
   
