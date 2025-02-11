@@ -57,8 +57,6 @@ PHP              18 hrs 53 mins  >>-----------------------   07.30 %
 </td>
 </tr>
 </table>
-</div>
----
 
 <h2 align=center>Связь со мной</h2> 
 <div align=center>
