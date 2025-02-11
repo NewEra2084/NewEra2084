@@ -25,8 +25,8 @@
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ](https://www.mongodb.com/)</div>
-<div align:center>
-<table align:center>
+<div align=center>
+<table align=center>
 <tr>
 <td>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NewEra2084&layout=compact" height=180px/>
