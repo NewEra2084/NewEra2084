@@ -4,40 +4,10 @@
 
 <h1 align=center color="red">Привет! Представляю вам... <a href="https://github.com/NewEra2084">Себя</a>! 🙂</h1>
 
-<p>Всем привет, меня зовут Михаил и я начинающий кодер<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">, который делает первые шаги в освоении Веб-разработки. Моя цель - найти работу. Буду стараться над своими проектами, узнавая каждый раз что-то новое из них.
+<p>Всем привет, меня зовут Михаил и я начинающий кодер<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">, который делает шаги в освоении Веб-разработки. Моя цель - найти работу. Буду стараться над своими проектами, узнавая каждый раз что-то новое из них.
 </p>
 
-<details>
-  <summary align=center><b>Не важная инфа о себе:</b></summary>
-  
-```css
-#Mihail { 
-  country: Russia;
-  city: Izhevsk;
-  height: 188cm;
-  age: 17;
-  sex: boy; 
-  favorite-color: red;
-  dream: just-to-be-a-famous-or-darling;
-  interests: games-books-programming-music-estetic;
-}
-
-.anime::favorites{
-  first: Darling-in-the-FranXX;
-  second: made-in-Abyss;
-  third: Attack-on-Titans;
-  four: NULL;
-}
-
-```
-</details>
-
 ---
-<details>
-  <summary align=center><b>ВАЖНАЯ инфа о себе(тык):</b></summary>
-
-  <p align=center>Тут будет информация о проектах и тд для Эй-Чар-Ов!</p>
-</details>
 
 <h2 align=center>Используемые мной технологии</h2>
 <div align=center>
