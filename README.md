@@ -26,7 +26,7 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ](https://www.mongodb.com/)</div>
 <div align:center>
-<table>
+<table align:center>
 <tr>
 <td>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NewEra2084&layout=compact" height=180px/>
