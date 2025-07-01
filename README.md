@@ -41,15 +41,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 October 2023 - To: 28 June 2025
+From: 16 October 2023 - To: 29 June 2025
 
-Total Time: 368 hrs 59 mins
+Total Time: 371 hrs 28 mins
 
-JavaScript        247 hrs 4 mins  >>>>>>>>>>>>>>>>>--------   66.96 %
-SCSS              35 hrs 25 mins  >>-----------------------   09.60 %
-HTML              24 hrs 8 mins   >>-----------------------   06.54 %
-CSS               21 hrs 43 mins  >------------------------   05.89 %
-PHP               18 hrs 53 mins  >------------------------   05.12 %
+JavaScript        249 hrs 20 mins >>>>>>>>>>>>>>>>>--------   67.12 %
+SCSS              35 hrs 25 mins  >>-----------------------   09.53 %
+HTML              24 hrs 8 mins   >>-----------------------   06.50 %
+CSS               21 hrs 47 mins  >------------------------   05.87 %
+PHP               18 hrs 53 mins  >------------------------   05.09 %
 ```
 
 <!--END_SECTION:waka-->
