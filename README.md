@@ -4,7 +4,7 @@
 
 <h1 align=center color="red">Привет! Представляю вам... <a href="https://github.com/NewEra2084">Себя</a>! 🙂</h1>
 
-<p>Всем привет, меня зовут Михаил и я начинающий кодер<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">, который делает шаги в освоении Веб-разработки. Моя цель - найти работу. Буду стараться над своими проектами, узнавая каждый раз что-то новое из них.
+<p>Здравствуйте! Меня зовут Михаил и я начинающий кодер<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">, который делает шаги в освоении Веб-разработки. Моя цель - найти работу. Буду стараться над своими проектами, узнавая каждый раз что-то новое из них.
 </p>
 
 ---
@@ -19,12 +19,19 @@
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ](https://git-scm.com/)[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ](https://github.com/)
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.typescriptlang.org/docs/)
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](https://react.dev/)
+[![TailwindCss](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/docs/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](https://getbootstrap.com/docs/5.3/)
+[![React-Router](https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white)](https://reactrouter.com/)
+[![FSD](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)]([https://www.typescriptlang.org/docs/](https://feature-sliced.design/ru/docs/get-started/))
+[![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](https://vercel.com/)
 
-### Пока только учу/В планах:
-[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-](https://www.mongodb.com/)</div>
+### Пока только учу:
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Vitest](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://vitest.dev/)
+</div>
 <div align=center>
 <table align=center>
 <tr>
