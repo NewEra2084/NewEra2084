@@ -2,9 +2,9 @@
   <a href="https://github.com/NewEra2084"><img src=".github/workflows/made-in-abyss.gif" alt="Banner"></a>
 </p>
 
-<h1 align=center color="red">Привет! Представляю вам... <a href="https://github.com/NewEra2084">Себя</a>! 🙂</h1>
+<h1 align=center color="red">Hello! Introdce you... <a href="https://github.com/NewEra2084">Myself</a>.</h1>
 
-<p>Здравствуйте! Меня зовут Михаил и я начинающий кодер<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">, который делает шаги в освоении Веб-разработки. Моя цель - найти работу. Буду стараться над своими проектами, узнавая каждый раз что-то новое из них.
+<p>Welcome to my page! My name is Mihai <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
 </p>
 
 ---
@@ -12,7 +12,7 @@
 <h2 align=center>Используемые мной технологии</h2>
 <div align=center>
   
-### Знаю:
+### My stack:
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ](https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/CSS_basics)[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/HTML_basics)
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://doka.guide/tools/markdown/)
@@ -26,7 +26,7 @@
 [![React-Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com/)
 [![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 
-### Пока только учу:
+### Still learning:
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=fff)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=fff)](https://vitest.dev/)
@@ -64,7 +64,7 @@ PHP               18 hrs 53 mins  >------------------------   04.62 %
 </tr>
 </table>
 </div>
-<h2 align=center>Связь со мной</h2> 
+<h2 align=center>Connect with me by:</h2> 
 <div align=center>
   
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/RightEvolution/)
