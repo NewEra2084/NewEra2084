@@ -9,7 +9,7 @@
 
 ---
 
-<h2 align=center>Используемые мной технологии</h2>
+<h2 align=center>Skills</h2>
 <div align=center>
   
 ### My stack:
